@@ -14,3 +14,7 @@ fix cooling mode.
 
 ### 1.1.3
 add under clock auto mode.
+
+### 1.1.4
+improve under clock frequency.
+adapt to the 202212 official firmware.
