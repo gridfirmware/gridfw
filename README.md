@@ -18,4 +18,5 @@ add under clock auto mode.
 ### 1.1.4
 improve under clock frequency.
 
-adapt to the 202212 official firmware.
+### 1.1.5
+adapt to more official firmware.
