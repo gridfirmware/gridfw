@@ -21,5 +21,5 @@ improve under clock frequency.
 ### 1.1.5
 adapt to more official firmware.
 
-### 1.1.5
+### 1.1.6
 fix under clock freq display.
