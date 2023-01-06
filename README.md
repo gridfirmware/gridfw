@@ -23,3 +23,6 @@ adapt to more official firmware.
 
 ### 1.1.6
 fix under clock freq display.
+
+### 1.1.7
+add sleep mode.
