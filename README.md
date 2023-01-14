@@ -26,3 +26,6 @@ fix under clock freq display.
 
 ### 1.1.7
 add sleep mode.
+
+### 1.1.8
+fix beaglebone devfee new block.
